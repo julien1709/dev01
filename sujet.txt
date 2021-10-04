@@ -1,6 +1,0 @@
-Lire les prénoms et les notes des élèves de la classe, tant que le prénom saisi est différent de: 
-« X AE A-XII ». Vérifier que la note saisie soit comprise entre 0 et 20.
-Afficher ensuite: 
-la moyenne de la classe
-la meilleure note de la classe et le prénom correspondant.
-la moins bonne note de la classe et le prénom correspondant.

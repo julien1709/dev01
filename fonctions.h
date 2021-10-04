@@ -1,9 +1,13 @@
 #ifndef fonctions.h
 #define fonctions.h
 
-#include <string.h>
 #include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 
-float getAverage(int, int);
+void askName ();
+void askNote ();
+void checkAndGetBestNote ();
+void checkAndGetWorstNote ();
 
 #endif
